@@ -34,7 +34,7 @@
             </div>
             <div class="row mb-3">
                 <div class="col">
-                    <label for="alumnos_telefono">Número de teléfono</label>
+                    <label for="alumnos_telefono">Número de teléfono Propio</label>
                     <input type="number" name="alumnos_telefono" id="alumnos_telefono" class="form-control">
                 </div>
             </div>
